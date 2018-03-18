@@ -1,0 +1,9 @@
+.idea/
+.cache/
+temp.py
+__pycache__/
+*.pdf
+*.stats
+parser.out
+parsetab.py
+stats
